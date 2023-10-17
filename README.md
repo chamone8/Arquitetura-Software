@@ -122,7 +122,7 @@ Este projeto é licenciado sob a [Licença MIT](LICENSE). Leia o arquivo LICENSE
 
 ## Contato
 
-Para questões ou feedback, sinta-se à vontade para criar uma "issue" ou entre em contato via email em [seuemail@example.com](mailto:seuemail@example.com).
+Para questões ou feedback, sinta-se à vontade para criar uma "issue" ou entre em contato via email em [seuemail@example.com](Chamone8@gmail.com).
 
 ---
 
